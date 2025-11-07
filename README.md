@@ -10,25 +10,14 @@ koji prate sadržaj predmeta tokom akademske 2025/2026. godine.
 
 ## Struktura repozitorija
 
-RMAS2025/
-│
-├── homeworks/ → Zadaće i projekti za samostalni rad
-│ └── HW1/
-│
-├── labs/ → Kod i primjeri sa laboratorijskih vježbi
-│ ├── L3/
-│ ├── L4/
-│ ├── L5/
-│ └── L6/
-│
-├── lectures/ → Primjeri korišteni tokom predavanja
-│ ├── P2/
-│ ├── P3/
-│ ├── P4/
-│ ├── P5/
-│ └── P6/
-│
-└── README.md
+- **lectures/** – sadrži primjere sa predavanja (P2, P3, P4, …).
+- **labs/** – sadrži primjere i kod korišten tokom laboratorijskih vježbi (L3, L4, L5, …).
+- **homeworks/** – obuhvata tekstove i primjere zadaća (HW1, HW2, …).
+- **README.md** – osnovne informacije o repozitoriju i strukturi.
+- **.gitignore** – datoteka koja definiše koje se datoteke ne prate u repozitoriju.
+
+Kako semestar napreduje, u repozitorij će se dodavati novi materijali (do približno P13 i L13).
+
 
 ## Alati i tehnologije
 
@@ -40,11 +29,11 @@ RMAS2025/
 
 ## Nastavno osoblje
 
-**dr. sci. Alma Šećerbegović, van. prof.**  
-Fakultet elektrotehnike, Univerzitet u Tuzli  
-📧 [alma.secerbegovic@untz.ba](mailto:alma.secerbegovic@untz.ba)
+**Nositeljica predmeta:**  
+dr. sci. Alma Šećerbegović – Fakultet elektrotehnike, Univerzitet u Tuzli  
+📧 [alma.secerbegovic@untz.ba, @fet.ba](mailto:alma.secerbegovic@untz.ba)
 
-**Lejla Šarić, bach. ing. el.**  
-Fakultet elektrotehnike, Univerzitet u Tuzli  
-📧 [lejla.saric@fet.ba](mailto:lejla.saric@fet.ba)
+**Asistent:**
+- Lejla Šarić, bach. ing. el, stručnjak iz prakse
+[lejla.saric@fet.ba](mailto:lejla.saric@fet.ba)
 ---
